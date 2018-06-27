@@ -5,3 +5,4 @@ The analysis,training,modelling,predicting of the famous Titanic Dataset with it
 ![alt text](https://github.com/FalconMadhab/titanic_dataset/blob/master/Figure_3.png)
 ![alt text](https://github.com/FalconMadhab/titanic_dataset/blob/master/Figure_4.png)
 ![alt text](https://github.com/FalconMadhab/titanic_dataset/blob/master/Figure_5.png)
+![alt text](https://github.com/FalconMadhab/titanic_dataset/blob/master/Figure_6.png)
